@@ -1,3 +1,3 @@
 # leaflet-challenge
 
-Please download the repository into your local drive and save config.js containing your API Key in static/js
+Please make sure to update config.js with your API Key which is located in Leaflet-step-1(and 2)/static/js
